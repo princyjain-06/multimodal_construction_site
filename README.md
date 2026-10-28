@@ -26,8 +26,8 @@ A production-ready multimodal AI platform for construction intelligence, featuri
 
 ### 1. Clone & Install
 ```bash
-git clone <repo-url>
-cd Multimodal-project
+git clone https://github.com/princyjain-06/multimodal_construction_site.git
+cd multimodal_construction_site
 pip install -r requirements.txt
 ```
 
